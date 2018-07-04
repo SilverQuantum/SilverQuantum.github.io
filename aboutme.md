@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: $whoami [Fan of exploring the new frontier of Network Communication Security]
+subtitle: 
 redirect_from: "/contact"
 ---
 
