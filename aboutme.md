@@ -7,7 +7,6 @@ redirect_from: "/contact"
 
 # <span class="fa fa-graduation-cap"></span>  Education
 **Temple University**
-*2012 - December 2016*
 Bachelor of Science in Computer Engineering - Cum Laude
 
 
