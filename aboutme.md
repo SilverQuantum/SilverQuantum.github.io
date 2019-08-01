@@ -24,7 +24,7 @@ Bachelor of Science in Computer Engineering - Cum Laude
 
 - CompTIA A+
 - CompTIA Network+ (N10-007)
-- CCNA (soon)
+- AWS Cloud Practitioner
 
 
 # <span class="fa fa-briefcase"></span> Experience
