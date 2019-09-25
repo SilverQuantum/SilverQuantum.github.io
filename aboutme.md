@@ -7,7 +7,7 @@ redirect_from: "/contact"
 
 # <span class="fa fa-graduation-cap"></span>  Education
 **Temple University**
-Bachelor of Science in Computer Engineering - Cum Laude
+Bachelor of Science in Computer Engineering
 
 
 ### Coursework:
