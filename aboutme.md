@@ -23,7 +23,7 @@ Bachelor of Science in Computer Engineering
 ### Certification:
 
 - CompTIA A+ (cert code: KXNNHPCFFLVE1V5D)
-- CompTIA Network+ (N10-007) (cert code:D1R2EEL3TGEQQJWY)
+- CompTIA Network+ (N10-007) (cert code: D1R2EEL3TGEQQJWY)
 - CompTIA Security+ (SY0-510) (in Progress)
 - AWS Cloud Practitioner 
 
@@ -79,4 +79,6 @@ COMPUTER SUPPORT INTERN
 [*Download copy of My Resume (under construction)*](
 http://)
 {: .text-center}
+
+![award]{img/award_philasd.jpg}{:height="50%" width="50%"}
 
