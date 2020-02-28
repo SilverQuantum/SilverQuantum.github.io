@@ -80,5 +80,5 @@ COMPUTER SUPPORT INTERN
 http://)
 {: .text-center}
 
-![award]{img/award_philasd.jpg}{:height="50%" width="50%"}
+![award](img/award_philasd.jpg){:height="50%" width="50%"}
 
