@@ -62,6 +62,7 @@ Bachelor of Science in Computer Engineering
 - Benchmark tools and processes to propel d2d operations cadence
 
 
+
 [*Download copy of My Resume (under construction)*](
 http://)
 {: .text-center}
